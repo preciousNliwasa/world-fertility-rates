@@ -1,0 +1,13 @@
+name: map0
+title: map0
+username:
+account: nliwasa2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4168621
+bundleId: 4628071
+url: https://nliwasa2.shinyapps.io/map0/
+when: 1621697710.96588
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: mapps.csv
